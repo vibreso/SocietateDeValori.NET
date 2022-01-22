@@ -1,0 +1,55 @@
+﻿@page
+@model Societate_de_Valori.Pages.Tranzactii.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Tranzactie</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Tranzactie.Investitor)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Tranzactie.Investitor.Nume)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Tranzactie.Platforma)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Tranzactie.Platforma.Nume)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Tranzactie.Firma)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Tranzactie.Firma.Nume)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Tranzactie.Suma)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Tranzactie.Suma)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Tranzactie.ValutaID)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Tranzactie.ValutaID)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Tranzactie.TipTranzactie)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Tranzactie.TipTranzactie.Nume)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Tranzactie.ID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

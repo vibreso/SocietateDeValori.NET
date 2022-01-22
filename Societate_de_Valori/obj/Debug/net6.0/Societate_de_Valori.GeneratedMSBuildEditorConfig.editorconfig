@@ -1,0 +1,180 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Societate_de_Valori
+build_property.RootNamespace = Societate_de_Valori
+build_property.ProjectDir = C:\Users\mecan\source\repos\Societate_de_Valori\Societate_de_Valori\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mecan\source\repos\Societate_de_Valori\Societate_de_Valori
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Firme/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlybWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Firme/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlybWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Firme/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlybWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Firme/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlybWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Firme/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlybWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Investitori/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZXN0aXRvcmlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Investitori/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZXN0aXRvcmlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Investitori/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZXN0aXRvcmlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Investitori/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZXN0aXRvcmlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Investitori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZXN0aXRvcmlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Platforme/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhdGZvcm1lXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Platforme/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhdGZvcm1lXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Platforme/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhdGZvcm1lXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Platforme/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhdGZvcm1lXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Platforme/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhdGZvcm1lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/SubiectiDeDrept/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViaWVjdGlEZURyZXB0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/SubiectiDeDrept/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViaWVjdGlEZURyZXB0XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/SubiectiDeDrept/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViaWVjdGlEZURyZXB0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/SubiectiDeDrept/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViaWVjdGlEZURyZXB0XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/SubiectiDeDrept/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViaWVjdGlEZURyZXB0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/TipTranzactii/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwVHJhbnphY3RpaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/TipTranzactii/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwVHJhbnphY3RpaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/TipTranzactii/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwVHJhbnphY3RpaVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/TipTranzactii/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwVHJhbnphY3RpaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/TipTranzactii/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwVHJhbnphY3RpaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Tranzactii/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnphY3RpaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Tranzactii/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnphY3RpaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Tranzactii/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnphY3RpaVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Tranzactii/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnphY3RpaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Tranzactii/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnphY3RpaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Valute/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmFsdXRlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Valute/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmFsdXRlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Valute/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmFsdXRlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Valute/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmFsdXRlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Valute/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmFsdXRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mecan/source/repos/Societate_de_Valori/Societate_de_Valori/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-66fhaodl33

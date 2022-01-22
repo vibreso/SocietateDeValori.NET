@@ -1,0 +1,60 @@
+﻿@page
+@model Societate_de_Valori.Pages.Tranzactii.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Tranzactie</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Tranzactie.ID" />
+            <div class="form-group">
+                <label asp-for="Tranzactie.InvestitorID" class="control-label"></label>
+                <select asp-for="Tranzactie.InvestitorID" class="form-control" asp-items="ViewBag.InvestitorID"></select>
+                <span asp-validation-for="Tranzactie.InvestitorID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tranzactie.PlatformaID" class="control-label"></label>
+                <select asp-for="Tranzactie.PlatformaID" class="form-control" asp-items="ViewBag.PlatformaID"></select>
+                <span asp-validation-for="Tranzactie.PlatformaID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tranzactie.FirmaID" class="control-label"></label>
+                <select asp-for="Tranzactie.FirmaID" class="form-control" asp-items="ViewBag.FirmaID"></select>
+                <span asp-validation-for="Tranzactie.FirmaID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tranzactie.Suma" class="control-label"></label>
+                <input asp-for="Tranzactie.Suma" class="form-control" />
+                <span asp-validation-for="Tranzactie.Suma" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tranzactie.ValutaID" class="control-label"></label>
+                <input asp-for="Tranzactie.ValutaID" class="form-control" />
+                <span asp-validation-for="Tranzactie.ValutaID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tranzactie.TipTranzactieID" class="control-label"></label>
+                <select asp-for="Tranzactie.TipTranzactieID" class="form-control" asp-items="ViewBag.TipTranzactieID"></select>
+                <span asp-validation-for="Tranzactie.TipTranzactieID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
